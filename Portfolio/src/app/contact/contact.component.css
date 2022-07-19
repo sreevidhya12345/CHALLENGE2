@@ -1,4 +1,19 @@
 .section{
-    margin-top: 150px;
+    margin-top: 10px;
     margin-left: 400px;
+    
 }
+
+
+
+.hero-image {
+    background-image: url("../../../image/port1.jpg");
+    background-color: #cccccc;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 0px;
+  
+  }
