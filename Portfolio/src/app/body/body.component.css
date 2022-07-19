@@ -43,5 +43,47 @@
 
 h2{
   text-align: center;
-  
+
+}
+
+/* testimonial */
+
+.testimonials{
+  background-color:darkgrey;
+  text-align: center;
+  /* height: 460px; */
+}
+
+
+.testimonial-inner .tour-desc{
+  border-radius: 10px;
+  padding: 75px;
+}
+
+.color-grey-3{
+  font-family: "Montserrat", Sans-serif;
+  font-size: 14px;
+  color: #6c83a2
+}
+
+.testimonial-inner img.tm-people{
+  width: 60px;
+  height: 60px;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  max-width: none
+}
+
+.link-name{
+  font-family: "Montserrat", Sans-serif;
+  font-size: 14px;
+  color:lightcoral;
+}
+
+.link-position{
+  font-family: "Montserrat", Sans-serif;
+  font-size: 12px;
+  color: #6c83a2
 }
